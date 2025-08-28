@@ -182,3 +182,12 @@ Karakteristik listing yang populer di kalangan tamu antara lain:
 * Lama sewa minimum yang fleksibel lebih menarik bagi tamu, terutama wisatawan yang sering berpindah lokasi.
 * Entire home/apt mendominasi dari sisi ketersediaan dibandingkan tipe kamar lain.
 
+# Rekomendasi
+
+1. Prioritaskan listing yang berada dekat lokasi wisata populer. Lakukan pemetaan destinasi wisata utama di Bangkok karena wisatawan cenderung memilih penginapan melalui Airbnb di sekitar area tersebut.
+2. Dorong host dengan banyak listing di area wisata untuk meningkatkan jumlah review, misalnya dengan mengingatkan tamu menuliskan ulasan. Program promosi juga dapat ditujukan pada pemilik properti baru agar mau bergabung dan membuka listing di daerah wisata.
+3. Adakan program promosi khusus bagi tipe listing Entire home/apt di luar 10 lokasi teratas, karena tipe ini paling populer baik secara keseluruhan maupun dalam tren 12 bulan terakhir.
+4. Fokus pada listing dengan harga terjangkau (≤ rata-rata) sebagai strategi menarik tamu. Walaupun harga tidak terlalu berpengaruh terhadap popularitas, listing dengan harga di bawah rata-rata terbukti lebih ramai.
+5. Tawarkan insentif untuk listing dengan lama sewa minimum yang lebih singkat agar lebih kompetitif, terutama tipe Entire home/apt. Fleksibilitas akan meningkatkan daya tarik tamu.
+6. Karena listing populer cenderung cepat penuh, host perlu strategi pengelolaan ketersediaan, misalnya dengan mengatur minimum malam menginap atau menyediakan opsi akomodasi untuk lebih dari satu tamu secara bersamaan.
+7. Bangun strategi experience point (XP), misalnya setiap 50 XP dapat ditukar dengan potongan harga atau voucher booking berikutnya. Hal ini mendorong tamu untuk lebih aktif menulis review, yang penting untuk memahami perilaku dan sentimen pelanggan. Mengingat Airbnb tidak mewajibkan tamu untuk memberikan ulasan (sesuai kebijakan resmi), program insentif bisa menjadi solusi.
