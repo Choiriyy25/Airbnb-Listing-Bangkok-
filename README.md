@@ -1,3 +1,6 @@
+Link Tableau : https://public.tableau.com/app/profile/siti.khoiriyah/viz/AirbnbBangkok-SK/Dashboard1?publish=yes
+PPT : 
+
 # Latar Belakang
 Bangkok merupakan salah satu kota dengan jumlah listing Airbnb terbanyak di Asia Tenggara. Persaingan antar host tinggi, sehingga penentuan harga sewa menjadi faktor penting. Dengan data Airbnb (misalnya dari InsideAirbnb.com), dapat dilakukan analisis untuk mengetahui faktor apa saja yang mempengaruhi harga serta membangun model prediksi harga.
 
