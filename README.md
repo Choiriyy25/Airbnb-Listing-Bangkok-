@@ -14,3 +14,8 @@ Kekurangannya:
 * Pada umumnya, Airbnb tidak menyediakan fasilitas seperti yang biasa ditemukan di hotel, seperti room service atau resepsionis.
 * Kualitas bisa sangat bervariasi antar host
 * Check-in kadang tidak sepraktis hotel jika host tidak responsif
+
+  
+# Dataset
+Data dihimpun dari listing airbnb Bangkok yang dapat diakses melalui link berikut :
+https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF
